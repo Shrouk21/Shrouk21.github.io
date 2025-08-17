@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Shrook
 
-**AI/ML Engineer** • Fresh Graduate • Communication & Electronics Engineering (Top 10)
+**AI/ML Engineer** • Fresh Graduate • Communication & Electronics Engineering.
 
 I build AI systems that actually work - from agentic workflows to computer vision models. Passionate about LLMs, RAG systems, and turning research into real applications.
 
